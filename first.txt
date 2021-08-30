@@ -11,7 +11,7 @@
 | 55| 333 |
 
 
-> 孔子曾經說過：「有教無類」
+> 孔子曾經說過：「有教無類」ver2.0
 
 #!bin/bash
 sudo yum install git -y
